@@ -1,1 +1,2 @@
-how to clone
+how to clonegit 
+hjhyhv
