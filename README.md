@@ -1,2 +1,4 @@
 how to clonegit 
-hjhyhv
+How add data in git. 
+git add .
+git commit -m "First Commit"
